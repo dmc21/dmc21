@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm David!
 
-<!--
-**dmc21/dmc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **JavaScript Developer | Full-Stack**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a dedicated JavaScript developer with a passion for building scalable, maintainable applications using modern JavaScript frameworks. I love diving deep into **Domain-Driven Design (DDD)**, and I’m always excited to explore how DDD principles can help create more structured, meaningful, and well-architected codebases.
+
+With a strong interest in problem-solving and software architecture, I enjoy designing systems where every component plays a critical role in the overall domain. Whether it's shaping complex business logic or structuring code for clarity and reuse, I believe in crafting software that's not only functional but also understandable and sustainable in the long term.
+
+I'm constantly learning and improving my skills, and I’m always open to new challenges.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Javascript, Typescript
+- **Frameworks/Libraries**: React.js, Angular, Astro, Next.js, NestJS, Express.js,
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Testing**: Jest, Cypress, Jasmine
+
+---
